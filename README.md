@@ -3,7 +3,7 @@ Advanced Search Tool For Http
 
 ###How to run:
  - It is required to install node.js before running the project.
- - Intall node modules:
+ - Install node modules:
     `npm i`
  - Start:
   `npm start`
