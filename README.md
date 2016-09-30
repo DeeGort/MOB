@@ -9,4 +9,4 @@ Advanced Search Tool For Http
   `npm start`
 
 ###How to use:
-Due tu the default input values it shows you a working search selectors.
+Due to the default input values it shows you a working search selectors.
