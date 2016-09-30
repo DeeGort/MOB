@@ -1,0 +1,28 @@
+body {
+  padding: 1.5em;
+}
+
+div.input-group {
+  margin-bottom: 8px;
+}
+
+ol {
+  padding-left: 12px;
+  font-size: 12px;
+}
+
+ol > li {
+  border-bottom: 1px solid rgb(240, 240, 240);
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    height: 80px;
+    left: 0px;
+    right: 0px;
+}
+
+.footer > .container {
+    padding-top: 1.5em;
+}
